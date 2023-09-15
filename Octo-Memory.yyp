@@ -34,6 +34,7 @@
     "IDEVersion": "2023.800.0.406",
   },
   "resources": [
+    {"id":{"name":"spr_frankenstein","path":"sprites/spr_frankenstein/spr_frankenstein.yy",},},
     {"id":{"name":"spr_cardback","path":"sprites/spr_cardback/spr_cardback.yy",},},
     {"id":{"name":"spr_skull","path":"sprites/spr_skull/spr_skull.yy",},},
     {"id":{"name":"spr_ghost","path":"sprites/spr_ghost/spr_ghost.yy",},},
