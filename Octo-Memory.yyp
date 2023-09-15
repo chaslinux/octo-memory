@@ -9,7 +9,7 @@
     "children": [],
     "name": "Default",
   },
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.800.0.406",
+    "IDEVersion": "2023.800.0.389",
   },
   "resources": [
     {"id":{"name":"spr_frankenstein","path":"sprites/spr_frankenstein/spr_frankenstein.yy",},},
@@ -39,6 +39,8 @@
     {"id":{"name":"spr_skull","path":"sprites/spr_skull/spr_skull.yy",},},
     {"id":{"name":"spr_ghost","path":"sprites/spr_ghost/spr_ghost.yy",},},
     {"id":{"name":"spr_eyeball","path":"sprites/spr_eyeball/spr_eyeball.yy",},},
+    {"id":{"name":"spr_witch","path":"sprites/spr_witch/spr_witch.yy",},},
+    {"id":{"name":"obj_card","path":"objects/obj_card/obj_card.yy",},},
     {"id":{"name":"spr_coffin","path":"sprites/spr_coffin/spr_coffin.yy",},},
     {"id":{"name":"spr_rooster","path":"sprites/spr_rooster/spr_rooster.yy",},},
     {"id":{"name":"spr_raven","path":"sprites/spr_raven/spr_raven.yy",},},
@@ -47,7 +49,6 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
-  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],
