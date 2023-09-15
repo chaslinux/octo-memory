@@ -22,5 +22,6 @@
     {"name":"spr_eyeball","order":1,"path":"sprites/spr_eyeball/spr_eyeball.yy",},
     {"name":"spr_coffin","order":2,"path":"sprites/spr_coffin/spr_coffin.yy",},
     {"name":"spr_rooster","order":4,"path":"sprites/spr_rooster/spr_rooster.yy",},
+    {"name":"spr_raven","order":6,"path":"sprites/spr_raven/spr_raven.yy",},
   ],
 }

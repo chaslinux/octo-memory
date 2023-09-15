@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.800.0.389",
+    "IDEVersion": "2023.800.0.406",
   },
   "resources": [
     {"id":{"name":"spr_cardback","path":"sprites/spr_cardback/spr_cardback.yy",},},
@@ -40,11 +40,13 @@
     {"id":{"name":"spr_eyeball","path":"sprites/spr_eyeball/spr_eyeball.yy",},},
     {"id":{"name":"spr_coffin","path":"sprites/spr_coffin/spr_coffin.yy",},},
     {"id":{"name":"spr_rooster","path":"sprites/spr_rooster/spr_rooster.yy",},},
+    {"id":{"name":"spr_raven","path":"sprites/spr_raven/spr_raven.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
+  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],
