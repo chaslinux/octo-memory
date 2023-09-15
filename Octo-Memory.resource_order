@@ -18,7 +18,9 @@
   ],
   "ResourceOrderSettings": [
     {"name":"spr_skull","order":3,"path":"sprites/spr_skull/spr_skull.yy",},
+    {"name":"spr_ghost","order":5,"path":"sprites/spr_ghost/spr_ghost.yy",},
     {"name":"spr_eyeball","order":1,"path":"sprites/spr_eyeball/spr_eyeball.yy",},
     {"name":"spr_coffin","order":2,"path":"sprites/spr_coffin/spr_coffin.yy",},
+    {"name":"spr_rooster","order":4,"path":"sprites/spr_rooster/spr_rooster.yy",},
   ],
 }

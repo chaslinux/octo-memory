@@ -36,8 +36,10 @@
   "resources": [
     {"id":{"name":"spr_cardback","path":"sprites/spr_cardback/spr_cardback.yy",},},
     {"id":{"name":"spr_skull","path":"sprites/spr_skull/spr_skull.yy",},},
+    {"id":{"name":"spr_ghost","path":"sprites/spr_ghost/spr_ghost.yy",},},
     {"id":{"name":"spr_eyeball","path":"sprites/spr_eyeball/spr_eyeball.yy",},},
     {"id":{"name":"spr_coffin","path":"sprites/spr_coffin/spr_coffin.yy",},},
+    {"id":{"name":"spr_rooster","path":"sprites/spr_rooster/spr_rooster.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
