@@ -11,7 +11,4 @@ function check_victory(argument0) {
 	}
 
 	return true;
-
-
-
 }
